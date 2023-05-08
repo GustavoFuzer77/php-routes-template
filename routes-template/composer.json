@@ -1,0 +1,16 @@
+{
+    "name": "gustavo/biblioteca-vania",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "gustavo"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
